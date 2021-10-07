@@ -9,7 +9,7 @@ export const Layout = ({ children, name, desc }) => {
     <div className="">
       <Head>
         <title>Mark-Bond Konsult - {name}</title>
-        <link rel="icon" href="/logo/errands_fav.jpeg" />
+        <link rel="icon" href="/logo/mark_bond_consult1.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
